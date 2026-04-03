@@ -20,7 +20,7 @@ export default function Hero() {
           <p className={styles.description}>
             Save up to 70% on premium implants, and access top-tier dental care
             in Colombia. Experience world-class treatments with state-of-the-art
-            technology.
+            techa.
           </p>
 
           <div className={styles.buttonGroup}>
