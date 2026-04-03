@@ -33,4 +33,4 @@ jobs:
 
       - name: Deploy to Hostinger
         run: |
-          rsync -avz -e "ssh -p 65002" dist/ u810948955@89.117.139.247:/home/user/public_html/
+          rsync -avz -e "ssh -p 65002" dist/ u810948955@89.117.139.247:/home/u810948955/public_html/
