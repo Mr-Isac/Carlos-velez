@@ -18,7 +18,7 @@ export default function Hero() {
           </h1>
 
           <p className={styles.description}>
-          el texto de prueba para ver si funciona esta chingaderaaaaaaa jajajejejji
+          el texto de prueba para ver si funciona esta chingaderaaaaaaa Diooooos jajajejejji
           </p>
 
           <div className={styles.buttonGroup}>
