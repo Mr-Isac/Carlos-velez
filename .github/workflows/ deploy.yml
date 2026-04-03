@@ -18,8 +18,8 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install
-        run: npm install
+      - name: Clean install
+        run: npm ci
 
       - name: Build
         run: npm run build
